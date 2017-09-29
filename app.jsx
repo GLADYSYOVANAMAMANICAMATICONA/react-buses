@@ -44,7 +44,6 @@ const Drawrender = () => {
 
 function ListaPasajeros(seats) {
         console.log("seats: ", seats);
-      let newSeats = [];
   let pasajeros = [{Nombre: "Gustavo", Apellido: "Paz", Dni: 1 },//array de nombres que se mostrara al ejeccutar la pagina
                     {Nombre: "Rosa", Apellido: "Mamani", Dni: 2},
   ];
